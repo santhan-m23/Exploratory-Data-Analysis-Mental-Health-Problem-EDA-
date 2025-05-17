@@ -49,7 +49,7 @@ Key findings include:
 - Matplotlib
 - Seaborn
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run this notebook on your local machine:
 
